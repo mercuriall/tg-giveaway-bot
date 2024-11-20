@@ -1,2 +1,2 @@
-aiogram==latest_version
+aiogram==3.14.0
 python-dotenv
