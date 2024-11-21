@@ -1,2 +1,1 @@
 aiogram3.14.0
-python-dotenv
